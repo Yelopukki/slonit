@@ -1,0 +1,1 @@
+inet 78.140.241.62/24 brd 78.140.241.255 scope global noprefixroute enp0s5
